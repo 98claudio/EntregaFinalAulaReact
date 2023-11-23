@@ -1,0 +1,36 @@
+{
+  "bolos": [
+    {
+      "nome": "Bolo de milho de lata no liquidificador",
+      "valor": "200",
+      "ingredientes": "1 \r\nLata de milho (sem o liquido)\r\n1 \r\nLata de leite (medida da lata de milho)\r\n1 \r\nLata de acucar (medida da lata de milho)\r\n1 \r\nLata de flocao de milho\r\n½ \r\nLata de oleo de soja\r\n3 \r\nOvos inteiros\r\n1 \r\nColher de fermento em po (sopa)\r\nadd \r\nMargarina para untar\r\nadd \r\nFarinha de trigo para untar",
+      "cobertura": "Nada como preparar um delicioso e fofinho bolo de milho de lata para o lanche, não é mesmo? Essa receita de bolo de milho é preparada com auxílio do liquidificador e é muito fácil de fazer!",
+      "user_img": "1700330401054.jpg",
+      "id": 1
+    },
+    {
+      "nome": "Bolo de Milho Verde Cremoso de Liquidificador",
+      "valor": "100",
+      "ingredientes": "2 \r\nEspigas de milho\r\n400 milliliters\r\nDe leite\r\n3 \r\nUnidades de ovos\r\n1 \r\nE 1/2 xicara de acucar (cha)\r\n1 \r\nXicara de farinha de trigo (cha)\r\n2 \r\nColheres de margarina (sopa)\r\n1 \r\nColher de fermento quimico em po para bolos (sopa)",
+      "cobertura": "Não existe coisa mais gostosa que comer um bolo de milho verde bem cremoso tomando um cafezinho feito na hora! Eu pelo menos não resisto e aqui em casa gosto sempre de deixar um bolo pronto para beliscar durante o dia. Mas se você é daquelas pessoas ...",
+      "user_img": "1700330499634.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Bolo de beterraba (liquidificador)",
+      "valor": "100",
+      "ingredientes": "1 \r\nXicara de suco de laranja (cha)\r\n2 \r\nBeterrabas medias picadas\r\n3 \r\nOvos\r\n2 \r\nde acucar\r\n¾ \r\nDe xicara de oleo (cha)\r\n3 \r\nXicaras de farinha de trigo com fermento\r\nadd \r\nMargarida ou manteiga para untar\r\n1 \r\nColher de margarina ou manteiga (sopa)\r\n1 \r\nXicara de acucar (cha)\r\n½ \r\nXicaras de leite (cha)\r\n3 \r\nColheres de chocolate em po (sopa)",
+      "cobertura": "Descubra a receita de Bolo de beterraba (liquidificador) para fazer em 50 minutos. Bata no liquidificador o suco de laranja e a beterraba até triturar (depois reserve). No liquidificador bata os ovos, o açúcar e o óleo. Acrescente aos poucos a beterr...",
+      "user_img": "1700330640062.jpg",
+      "id": 3
+    },
+    {
+      "nome": "bolo de creme",
+      "valor": "100",
+      "ingredientes": "2 \r\nEspigas de milho\r\n400 milliliters\r\nDe leite\r\n3 \r\nUnidades de ovos\r\n1 \r\nE 1/2 xicara de acucar (cha)\r\n1 \r\nXicara de farinha de trigo (cha)\r\n2 \r\nColheres de margarina (sopa)\r\n1 \r\nColher de fermento quimico em po para bolos (sopa)",
+      "cobertura": "Não existe coisa mais gostosa que comer um bolo de milho verde bem cremoso tomando um cafezinho feito na hora! Eu pelo menos não resisto e aqui em casa gosto sempre de deixar um bolo pronto para beliscar durante o dia. Mas se você é daquelas pessoas ...",
+      "user_img": "1700330730305.jpg",
+      "id": 4
+    }
+  ]
+}
